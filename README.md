@@ -1,2 +1,29 @@
-# under-progress
-A repo to share the joy of 𝘧𝘪𝘯𝘥𝘪𝘯𝘨, and 𝘬𝘯𝘰𝘸𝘪𝘯𝘨.
+<h1 align="center"> under-progress </h1>
+<p align="center"> 𝘛𝘩𝘦 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘪𝘴 𝘢 𝘵𝘳𝘦𝘢𝘴𝘶𝘳𝘦 𝘤𝘩𝘦𝘴𝘵 𝘰𝘧 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯, 𝘣𝘶𝘵 𝘸𝘦 𝘩𝘢𝘷𝘦 𝘯𝘰 𝘮𝘢𝘱, 𝘣𝘦𝘤𝘢𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘤𝘩𝘦𝘴𝘵 𝘪𝘴𝘯'𝘵 𝘣𝘶𝘳𝘪𝘦𝘥. </p>
+<img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="2000">
+<p align="justify"> 
+There is a wealth of resources available over the internet, and a lot of them are simply not accessible. 𝘌𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘭𝘺 in this day and age of AI, I yearn to return to a time when searching for something online meant sifting through tons and tons of what were essentially 𝘴𝘵𝘰𝘳𝘪𝘦𝘴 that humans had written and 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴 that people had found by themselves. Knowledge, written the way they understood it.
+  
+This personal, passion project serves to fulfil the simple desire of being 𝘢𝘸𝘢𝘳𝘦 of what can potentially be known, that isn't immediately available. There aren't websites for 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨; there are people out there whose work goes undiscovered and unnoticed by someone who would truly appreciate its worth.
+
+Personally though, I just love seeing what other people have been upto, and I'm almost always tempted to learn something new just by witnessing someone else be 𝘳𝘦𝘢𝘭𝘭𝘺 good at what they do, so I built this to help me find people's works!
+</p>
+
+-----
+Things I currently plan on accessing (from the g-suite):
+1. drive
+2. docs
+3. sheets
+4. slides
+5. forms
+6. sites
+7. colab notebooks
+8. github repos (?)
+
+functionality that needs to be implemented:
+1. need to implement script to query a dork into google for someone's request
+2. different section for each resource type (probably a sidebar on the left)
+3. "i'm feeling lucky to learn" type option to randomly generate a resource
+4. separate results for each of the 7-8 types of data objects
+5. getting details of the original publisher (need to scrape from google drive, need to see if can get full details of owner of public resources)
+6. LLM based summarizer of the resource found (should extract key points from data found and prepare a short summary) (hopefully without LLM?)
