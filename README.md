@@ -1,4 +1,4 @@
-<h1 align="center"> under-progress </h1>
+<h1 align="center"> DataDorker </h1>
 
 <p align="center"> 𝘛𝘩𝘦 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘪𝘴 𝘢 𝘵𝘳𝘦𝘢𝘴𝘶𝘳𝘦 𝘤𝘩𝘦𝘴𝘵 𝘰𝘧 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯, 𝘣𝘶𝘵 𝘸𝘦 𝘩𝘢𝘷𝘦 𝘯𝘰 𝘮𝘢𝘱, 𝘣𝘦𝘤𝘢𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘤𝘩𝘦𝘴𝘵 𝘪𝘴𝘯'𝘵 𝘣𝘶𝘳𝘪𝘦𝘥. </p>
 
@@ -12,7 +12,7 @@
   Personally, I just love seeing what other people have been upto, and I'm almost always tempted to learn something new just by witnessing someone else be 𝘳𝘦𝘢𝘭𝘭𝘺 good at what they do, so I built this to help me find people's works!
 </p>
 
-<h3> What is *under-progress*?</h3>
+<h3> TLDR; What is <b>DataDorker</b>?</h3>
 
 <h3> An understanding of the underlying concepts: Google Dorking </h3>
 
